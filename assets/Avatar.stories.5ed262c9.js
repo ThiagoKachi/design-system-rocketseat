@@ -1,0 +1,2 @@
+import{A as t}from"./index.7dae4a09.js";import"./index.4244cd94.js";import"./iframe.1ca7b3c8.js";import"./index.276ec864.js";import"./jsx-runtime.79d39a00.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/thiagokachi.png",alt:"Thiago Kachi"},argTypes:{src:{control:{type:"text"}}}},p={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,m as WithFallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.5ed262c9.js.map
