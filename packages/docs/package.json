@@ -1,13 +1,13 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@thiagokachi-ignite-ui/docs",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@thiagokachi-ignite-ui/eslint-config": "*",
+    "@thiagokachi-ignite-ui/react": "*",
+    "@thiagokachi-ignite-ui/tokens": "*",
+    "@thiagokachi-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.12",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
